@@ -13,7 +13,7 @@ function App() {
             <h4>id:{post.id}</h4>
             <img src={post.avatar} alt="image" />
             <p>First Name:{post.first_name}</p>
-            <p>Last Name: {post.first_name}</p>
+            <p>Last Name: {post.last_name}</p>
             <p>Email:{post.email}</p>
             <p>Gender:{post.gender}</p>
             <p>IP Address:{post.ip_address}</p>
