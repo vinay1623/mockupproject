@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import Data from "./MOCK_DATA.json"
-import { Redirect } from "react-router-dom";
 import Views from './Views';
 
 
